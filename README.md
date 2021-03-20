@@ -14,7 +14,7 @@ Remember to add your own credentials in `app/src/permissions.json ` and in `perm
 
 ## Firestore rules
 
-By setting all to flase in firestore.rules only admin e.g. function can access it.
+By setting all to false in firestore.rules only admin e.g. function can access it.
 
 ## Run frontend
 
