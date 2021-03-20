@@ -12,6 +12,10 @@ Remember to add your own credentials in `app/src/permissions.json ` and in `perm
 - Express
 - REST
 
+## Firestore rules
+
+By setting all to flase in firestore.rules only admin e.g. function can access it.
+
 ## Run frontend
 
 ```bash
@@ -25,7 +29,7 @@ npm run start
 npm run bulild
 ```
 
-# Serve functions etc locally.
+## Serve functions etc locally.
 
 ```bash
 # Serve functions and hosting locally
